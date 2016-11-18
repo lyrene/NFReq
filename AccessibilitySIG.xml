@@ -1,11 +1,11 @@
 <?xml version = "1.0" encoding = "UTF-8"?><XMI xmi.version = "1.1" xmlns:UML="href://org.omg/UML/1.3">
 <XMI.header>
   <XMI.documentation>
-    <XMI.owner></XMI.owner>
+    <XMI.owner>Romeu</XMI.owner>
     <XMI.contact></XMI.contact>
     <XMI.exporter>Omnes Web</XMI.exporter>
     <XMI.exporterVersion>1.0</XMI.exporterVersion>
-    <XMI.notice></XMI.notice>
+    <XMI.notice>In Portuguese</XMI.notice>
   </XMI.documentation>
   <XMI.metamodel xmi.name="UML" xmi.version="1.3"/>
  </XMI.header>
